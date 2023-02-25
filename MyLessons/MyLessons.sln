@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetischer Mittelwert", "MyLessons\Arithmetischer Mittelwert.csproj", "{AEABD564-330C-41BB-B3B5-AD7CCC4AE198}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyProject", "ConsoleApp1\MyProject.csproj", "{E78DDE44-6C29-402E-97B1-BD239F39F0C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Währungsumrechner", "Währungsumrechner\Währungsumrechner.csproj", "{22C6C3CB-22EF-40D7-A6C8-7F0DB50A4181}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEABD564-330C-41BB-B3B5-AD7CCC4AE198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEABD564-330C-41BB-B3B5-AD7CCC4AE198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEABD564-330C-41BB-B3B5-AD7CCC4AE198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEABD564-330C-41BB-B3B5-AD7CCC4AE198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E78DDE44-6C29-402E-97B1-BD239F39F0C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E78DDE44-6C29-402E-97B1-BD239F39F0C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E78DDE44-6C29-402E-97B1-BD239F39F0C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E78DDE44-6C29-402E-97B1-BD239F39F0C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22C6C3CB-22EF-40D7-A6C8-7F0DB50A4181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C6C3CB-22EF-40D7-A6C8-7F0DB50A4181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C6C3CB-22EF-40D7-A6C8-7F0DB50A4181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C6C3CB-22EF-40D7-A6C8-7F0DB50A4181}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3ABA25A-16FF-4A23-B4DC-B1AED6BB53B8}
+	EndGlobalSection
+EndGlobal

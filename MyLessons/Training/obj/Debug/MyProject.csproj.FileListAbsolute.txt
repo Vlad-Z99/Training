@@ -1,0 +1,8 @@
+C:\Users\Gast31\source\repos\MyLessons\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Gast31\source\repos\MyLessons\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Gast31\source\repos\MyLessons\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Gast31\source\repos\MyLessons\ConsoleApp1\obj\Debug\MyProject.csproj.AssemblyReference.cache
+C:\Users\Gast31\source\repos\MyLessons\ConsoleApp1\obj\Debug\MyProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gast31\source\repos\MyLessons\ConsoleApp1\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\Gast31\source\repos\MyLessons\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Gast31\source\repos\MyLessons\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

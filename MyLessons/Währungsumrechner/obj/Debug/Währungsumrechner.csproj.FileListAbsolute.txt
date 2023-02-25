@@ -1,0 +1,8 @@
+C:\Users\Gast31\source\repos\MyLessons\Währungsumrechner\obj\Debug\Währungsumrechner.csproj.AssemblyReference.cache
+C:\Users\Gast31\source\repos\MyLessons\Währungsumrechner\obj\Debug\Währungsumrechner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gast31\source\repos\MyLessons\Währungsumrechner\obj\Debug\Währungsumrechner.csproj.CoreCompileInputs.cache
+C:\Users\Gast31\source\repos\MyLessons\Währungsumrechner\bin\Debug\Währungsumrechner.exe.config
+C:\Users\Gast31\source\repos\MyLessons\Währungsumrechner\bin\Debug\Währungsumrechner.exe
+C:\Users\Gast31\source\repos\MyLessons\Währungsumrechner\bin\Debug\Währungsumrechner.pdb
+C:\Users\Gast31\source\repos\MyLessons\Währungsumrechner\obj\Debug\Währungsumrechner.exe
+C:\Users\Gast31\source\repos\MyLessons\Währungsumrechner\obj\Debug\Währungsumrechner.pdb
