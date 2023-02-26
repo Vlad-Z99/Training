@@ -1,0 +1,8 @@
+C:\Users\Gast31\OneDrive\Рабочий стол\C#\c++\Konstruktion if else\Konstruktion if else\bin\Debug\Konstruktion if else.exe.config
+C:\Users\Gast31\OneDrive\Рабочий стол\C#\c++\Konstruktion if else\Konstruktion if else\bin\Debug\Konstruktion if else.exe
+C:\Users\Gast31\OneDrive\Рабочий стол\C#\c++\Konstruktion if else\Konstruktion if else\bin\Debug\Konstruktion if else.pdb
+C:\Users\Gast31\OneDrive\Рабочий стол\C#\c++\Konstruktion if else\Konstruktion if else\obj\Debug\Konstruktion if else.csproj.AssemblyReference.cache
+C:\Users\Gast31\OneDrive\Рабочий стол\C#\c++\Konstruktion if else\Konstruktion if else\obj\Debug\Konstruktion if else.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gast31\OneDrive\Рабочий стол\C#\c++\Konstruktion if else\Konstruktion if else\obj\Debug\Konstruktion if else.csproj.CoreCompileInputs.cache
+C:\Users\Gast31\OneDrive\Рабочий стол\C#\c++\Konstruktion if else\Konstruktion if else\obj\Debug\Konstruktion if else.exe
+C:\Users\Gast31\OneDrive\Рабочий стол\C#\c++\Konstruktion if else\Konstruktion if else\obj\Debug\Konstruktion if else.pdb
